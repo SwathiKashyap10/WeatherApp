@@ -28,8 +28,7 @@ A lightweight frontend weather application built with **HTML, CSS, and JavaScrip
 
 ## 📸 Demo
 
-![Watch the demo](https://github.com/user-attachments/assets/696cb098-b8eb-4c1c-a95e-c65d3b12d65d)
-
+https://github.com/user-attachments/assets/696cb098-b8eb-4c1c-a95e-c65d3b12d65d
 
 ---
 
